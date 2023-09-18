@@ -1,5 +1,13 @@
 class Person:
     def __init__(self, name, age):
+        """
+        Initialize a Person object.
+
+        :param name: The name of the person.
+        :type name: str
+        :param age: The age of the person.
+        :type age: int
+        """
         self.name = name
         self.age = age
 
