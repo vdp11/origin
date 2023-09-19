@@ -102,8 +102,6 @@ venv\Scripts\activate
 # Activate the virtual environment (macOS/Linux)
 source venv/bin/activate
 
-Usage
-Provide instructions on how to use your application or any relevant details.
 
 Contributing
 Explain how others can contribute to your project if applicable.
@@ -113,9 +111,6 @@ This project is licensed under the [License Name] - see the LICENSE.md file for 
 
 Acknowledgments
 Mention any acknowledgments or credits for third-party libraries, resources, or inspiration.
-
-vbnet
-Copy code
 
 Customize this template with your project's specific details, including prerequisites, installation steps, usage instructions, licensing, and acknowledgments.
 
